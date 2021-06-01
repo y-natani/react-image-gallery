@@ -9,9 +9,6 @@
     "build": "yarn test && gulp build",
     "lint": "eslint --ext .js,.jsx src"
   },
-  "engines": {
-    "node": "<12"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/xiaolin/react-image-gallery.git"
